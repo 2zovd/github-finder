@@ -1,1 +1,1 @@
-# github-finder
+GitHub Api for browsing users
