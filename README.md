@@ -1,1 +1,1 @@
-GitHub Api for browsing users
+Application for searching GitHub users
