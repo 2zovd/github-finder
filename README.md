@@ -1,1 +1,1 @@
-# github-finder
+Application for searching GitHub users
